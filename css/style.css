@@ -130,3 +130,13 @@ h1 {
   p::first-line {
       font-size: large;
     }
+
+/* Tablet Layout */
+
+@media screen and (max-width: 786px) {
+
+    .text {
+        font-size: 1000px;
+    }
+
+}
