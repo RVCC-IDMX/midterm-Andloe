@@ -1,2 +1,44 @@
 /* Journey to the Center of the Earth Practicum */
 /* Pablo Jimenez */
+
+/* Header Design */
+h1 {
+    text-align: center;
+    border: 4px #886644; 
+    border-style: solid;
+    padding: 30px;
+    box-shadow: 5px 5px 20px 0px inset;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+}
+
+/* Nav Design */
+nav {
+    text-align: center;
+    border: 4px #886644; 
+    border-style: solid;
+    box-shadow: 5px 5px 20px 0px inset;
+}
+
+/* Main Design */
+main {
+    border: 4px #886644; 
+    border-style: solid;  
+    box-shadow: 5px 5px 20px 0px inset;
+}
+
+/* Aside Design */
+aside{
+    border: 4px #886644; 
+    border-style: solid;
+    box-shadow: 5px 5px 20px 0px inset;
+}
+
+/* Footer Design */
+footer {
+    border: 4px #886644; 
+    border-style: solid;
+    box-shadow: 5px 5px 20px 0px inset;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+}
