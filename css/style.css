@@ -154,5 +154,18 @@ img {
 h1 {
     font-size: 50px;
 }
-
+}
 /* Desktop Set Up Layout */
+
+@media screen and (min-width :1024px) {
+
+main {
+    float: left;
+    width: 70%;
+}
+aside {
+    /* I'm lost, nothing works */
+}
+
+}
+
